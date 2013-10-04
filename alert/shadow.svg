@@ -62,9 +62,9 @@
      inkscape:window-height="1138"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="55.831055"
-     inkscape:cx="8.5368339"
-     inkscape:cy="8.245005"
+     inkscape:zoom="22.627417"
+     inkscape:cx="4.3021432"
+     inkscape:cy="-1.5073367"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -99,5 +99,8 @@
      y="17.444241"
      transform="matrix(0.96460746,0.26369007,-0.96460746,0.26369007,0,0)"
      id="diamond-7"
-     style="fill:#000000;stroke:none;stroke-width:0.07330514000000001;fill-opacity:0.45502645000000003;filter:url(#filter3810)" />
+     style="fill:#000000;stroke:none;stroke-width:0.07330514000000001;fill-opacity:0.45502645000000003;filter:url(#filter3810)"
+     inkscape:export-filename="C:\Users\jacobsj\Documents\Projects\WebWorkerTest\images\icons\alert\shadow.png"
+     inkscape:export-xdpi="139.08"
+     inkscape:export-ydpi="139.08" />
 </svg>

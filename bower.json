@@ -1,0 +1,25 @@
+{
+  "name": "wsdot-traveler-info-icons",
+  "homepage": "https://github.com/WSDOT-GIS/WSDOT-Traveler-Info-Icons",
+  "authors": [
+    "WSDOT"
+  ],
+  "description": "Icons for use with WSDOT traveler info API",
+  "main": "",
+  "keywords": [
+    "traffic",
+    "traveler",
+    "info",
+    "API",
+    "WSDOT"
+  ],
+  "license": "Public Domain Mark 1.0",
+  "ignore": [
+    "**/.*",
+    "**/*.py",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
